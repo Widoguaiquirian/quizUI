@@ -1,6 +1,6 @@
 # quizUI
 
-A nice and short quiz about English Language
+A very nice and short quiz about English Language
 
 https://quiz-english-lg.netlify.app/
 
